@@ -1,5 +1,5 @@
-import toArray from '@form-create/utils/lib/toarray';
-import getSlot from '@form-create/utils/lib/slot';
+import toArray from '@caxa-form/utils/lib/toarray';
+import getSlot from '@caxa-form/utils/lib/slot';
 
 const NAME = 'fcTree';
 

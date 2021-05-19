@@ -1,8 +1,8 @@
-import {err} from '@form-create/utils/lib/console';
+import {err} from '@caxa-form/utils/lib/console';
 import fetch from './fetch';
 import {invoke} from './util';
-import is from '@form-create/utils/lib/type';
-import deepSet from '@form-create/utils/lib/deepset';
+import is from '@caxa-form/utils/lib/type';
+import deepSet from '@caxa-form/utils/lib/deepset';
 
 const $fetch = {
     name: 'fetch',

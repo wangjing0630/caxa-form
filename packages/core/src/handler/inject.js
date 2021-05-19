@@ -1,6 +1,6 @@
-import extend from '@form-create/utils/lib/extend';
-import is from '@form-create/utils/lib/type';
-import toLine from '@form-create/utils/lib/toline';
+import extend from '@caxa-form/utils/lib/extend';
+import is from '@caxa-form/utils/lib/type';
+import toLine from '@caxa-form/utils/lib/toline';
 
 
 export default function useInject(Handler) {

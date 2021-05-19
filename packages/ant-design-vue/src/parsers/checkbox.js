@@ -1,4 +1,4 @@
-import {hasProperty} from '@form-create/utils/lib/type';
+import {hasProperty} from '@caxa-form/utils/lib/type';
 
 export default {
     name: 'checkbox',

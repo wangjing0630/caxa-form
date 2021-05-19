@@ -1,4 +1,4 @@
-import toArray from '@form-create/utils/lib/toarray';
+import toArray from '@caxa-form/utils/lib/toarray';
 import './style.css';
 
 const NAME = 'fcFrame';

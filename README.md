@@ -67,11 +67,11 @@ If you have a form component suitable for form-create, please feel free to [clic
 
 | Name               | Description                                                |
 | ------------------ | ---------------------------------------------------------- |
-| @form-create/iview [![version](https://img.shields.io/npm/v/@form-create/iview.svg)](https://www.npmjs.com/package/@form-create/iview) [![npm](https://img.shields.io/npm/dt/@form-create/iview.svg)](https://www.npmjs.com/package/@form-create/iview)    | [iview version](http://form-create.com/v2/iview/) |
-| @form-create/iview4 [![version](https://img.shields.io/npm/v/@form-create/iview4.svg)](https://www.npmjs.com/package/@form-create/iview4) [![npm](https://img.shields.io/npm/dt/@form-create/iview4.svg)](https://www.npmjs.com/package/@form-create/iview4)    | [view-design version](http://form-create.com/v2/iview/) |
-| @form-create/element-ui [![version](https://img.shields.io/npm/v/@form-create/element-ui.svg)](https://www.npmjs.com/package/@form-create/element-ui) [![npm](https://img.shields.io/npm/dt/@form-create/element-ui.svg)](https://www.npmjs.com/package/@form-create/element-ui) | [element-ui version](http://form-create.com/v2/element-ui/)        |
-| @form-create/ant-design-vue [![version](https://img.shields.io/npm/v/@form-create/ant-design-vue.svg)](https://www.npmjs.com/package/@form-create/ant-design-vue) [![npm](https://img.shields.io/npm/dt/@form-create/ant-design-vue.svg)](https://www.npmjs.com/package/@form-create/ant-design-vue) | [ant-design-vue version](http://form-create.com/v2/ant-design-vue/)     |
-| @form-create/designer [![version](https://img.shields.io/npm/v/@form-create/designer.svg)](https://www.npmjs.com/package/@form-create/designer) [![npm](https://img.shields.io/npm/dt/@form-create/designer.svg)](https://www.npmjs.com/package/@form-create/designer) | [Form Designer](http://form-create.com/designer)     |
+| @caxa-form/iview [![version](https://img.shields.io/npm/v/@caxa-form/iview.svg)](https://www.npmjs.com/package/@caxa-form/iview) [![npm](https://img.shields.io/npm/dt/@caxa-form/iview.svg)](https://www.npmjs.com/package/@caxa-form/iview)    | [iview version](http://form-create.com/v2/iview/) |
+| @caxa-form/iview4 [![version](https://img.shields.io/npm/v/@caxa-form/iview4.svg)](https://www.npmjs.com/package/@caxa-form/iview4) [![npm](https://img.shields.io/npm/dt/@caxa-form/iview4.svg)](https://www.npmjs.com/package/@caxa-form/iview4)    | [view-design version](http://form-create.com/v2/iview/) |
+| @caxa-form/element-ui [![version](https://img.shields.io/npm/v/@caxa-form/element-ui.svg)](https://www.npmjs.com/package/@caxa-form/element-ui) [![npm](https://img.shields.io/npm/dt/@caxa-form/element-ui.svg)](https://www.npmjs.com/package/@caxa-form/element-ui) | [element-ui version](http://form-create.com/v2/element-ui/)        |
+| @caxa-form/ant-design-vue [![version](https://img.shields.io/npm/v/@caxa-form/ant-design-vue.svg)](https://www.npmjs.com/package/@caxa-form/ant-design-vue) [![npm](https://img.shields.io/npm/dt/@caxa-form/ant-design-vue.svg)](https://www.npmjs.com/package/@caxa-form/ant-design-vue) | [ant-design-vue version](http://form-create.com/v2/ant-design-vue/)     |
+| @caxa-form/designer [![version](https://img.shields.io/npm/v/@caxa-form/designer.svg)](https://www.npmjs.com/package/@caxa-form/designer) [![npm](https://img.shields.io/npm/dt/@caxa-form/designer.svg)](https://www.npmjs.com/package/@caxa-form/designer) | [Form Designer](http://form-create.com/designer)     |
 
 ## Example
 
@@ -98,22 +98,22 @@ If you have a form component suitable for form-create, please feel free to [clic
 
 >iview
 ```shell
-npm install @form-create/iview
+npm install @caxa-form/iview
 ```
 
 view-design
 ```shell
-npm install @form-create/iview4
+npm install @caxa-form/iview4
 ```
 
 element-ui
 ```shell
-npm install @form-create/element-ui
+npm install @caxa-form/element-ui
 ```
 
 ant-design-vue
 ```shell
-npm install @form-create/ant-design-vue
+npm install @caxa-form/ant-design-vue
 ```
 
 ## Import
@@ -129,7 +129,7 @@ iview
 <!-- import iView -->
 <script src="//unpkg.com/iview/dist/iview.min.js"></script>
 <!-- import form-create/iview -->
-<script src="//unpkg.com/@form-create/iview/dist/form-create.min.js"></script>
+<script src="//unpkg.com/@caxa-form/iview/dist/form-create.min.js"></script>
 ```
 
 element-ui
@@ -141,7 +141,7 @@ element-ui
 <!-- import element -->
 <script src="https://unpkg.com/element-ui/lib/index.js"></script>
 <!-- import form-create/element -->
-<script src="//unpkg.com/@form-create/element-ui/dist/form-create.min.js"></script>
+<script src="//unpkg.com/@caxa-form/element-ui/dist/form-create.min.js"></script>
 ```
 
 ant-design-vue
@@ -156,26 +156,26 @@ ant-design-vue
 <!-- import ant-design-vue -->
 <script defer src="https://unpkg.com/ant-design-vue@1.5.3/dist/antd.js"></script>
 <!-- import form-create -->
-<script src="//unpkg.com/@form-create/ant-design-vue/dist/form-create.min.js"></script>
+<script src="//unpkg.com/@caxa-form/ant-design-vue/dist/form-create.min.js"></script>
 ```
 
 **NodeJs:**
 
 iview
 ```js
-import formCreate from '@form-create/iview'
+import formCreate from '@caxa-form/iview'
 Vue.use(formCreate)
 ```
 
 element-ui
 ```js
-import formCreate from '@form-create/element-ui'
+import formCreate from '@caxa-form/element-ui'
 Vue.use(formCreate)
 ```
 
 ant-design-vue
 ```js
-import formCreate from '@form-create/ant-design-vue'
+import formCreate from '@caxa-form/ant-design-vue'
 Vue.use(formCreate)
 ```
 

@@ -1,4 +1,4 @@
-import FormCreate, {maker} from '@form-create/iview/src/index';
+import FormCreate, {maker} from '@caxa-form/iview/src/index';
 
 export {maker}
 

@@ -1,7 +1,7 @@
-import toLine from '@form-create/utils/lib/toline';
-import is from '@form-create/utils/lib/type';
-import toString from '@form-create/utils/lib/tostring';
-import extend from '@form-create/utils/lib/extend';
+import toLine from '@caxa-form/utils/lib/toline';
+import is from '@caxa-form/utils/lib/type';
+import toString from '@caxa-form/utils/lib/tostring';
+import extend from '@caxa-form/utils/lib/extend';
 import Vue from 'vue';
 
 function parseProp(prop) {

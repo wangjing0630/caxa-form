@@ -1,7 +1,7 @@
-import extend from '@form-create/utils/lib/extend';
-import is from '@form-create/utils/lib/type';
-import {invoke} from '@form-create/core/src/frame/util';
-import toArray from '@form-create/utils/lib/toarray';
+import extend from '@caxa-form/utils/lib/extend';
+import is from '@caxa-form/utils/lib/type';
+import {invoke} from '@caxa-form/core/src/frame/util';
+import toArray from '@caxa-form/utils/lib/toarray';
 
 function tidyBtnProp(btn, def) {
     if (is.Boolean(btn))

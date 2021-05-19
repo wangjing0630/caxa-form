@@ -1,7 +1,7 @@
 {
-  "name": "@form-create/component-ivu-group",
+  "name": "@caxa-form/component-ivu-group",
   "version": "2.5.7",
-  "description": "@form-create/iview 内置组件",
+  "description": "@caxa-form/iview 内置组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "unpkg": "./dist/index.js",
@@ -19,7 +19,7 @@
     "dist"
   ],
   "keywords": [
-    "@form-create",
+    "@caxa-form",
     "form-create-component",
     "iview",
     "view-deisgn"
@@ -31,7 +31,7 @@
   "author": "xaboy",
   "license": "MIT",
   "dependencies": {
-    "@form-create/utils": "^2.5.7"
+    "@caxa-form/utils": "^2.5.7"
   },
   "bugs": {
     "url": "https://github.com/xaboy/form-create/issues"
@@ -39,5 +39,6 @@
   "homepage": "http://www.form-create.com",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "6ed87214f2e09394b2d40ca09989a1e6c572cfed"
 }

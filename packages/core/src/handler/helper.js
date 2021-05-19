@@ -1,5 +1,5 @@
 import {enumerable, getRule} from '../frame/util';
-import is from '@form-create/utils/lib/type';
+import is from '@caxa-form/utils/lib/type';
 
 
 export default function useHelper(rules) {

@@ -1,5 +1,5 @@
 import {Button, Col, Popover, Row, Tooltip} from "element-ui";
-import {FormData, VNodeData} from "@form-create/core";
+import {FormData, VNodeData} from "@caxa-form/core";
 import {ElementUIComponentSize} from "element-ui/types/component";
 import {FormItemLabelPosition, ValidateCallback, ValidateFieldCallback} from "element-ui/types/form";
 import {Api} from "./index";

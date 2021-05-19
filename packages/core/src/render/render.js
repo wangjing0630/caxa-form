@@ -1,11 +1,11 @@
-import extend from '@form-create/utils/lib/extend';
-import mergeProps from '@form-create/utils/lib/mergeprops';
-import is, {hasProperty} from '@form-create/utils/lib/type';
+import extend from '@caxa-form/utils/lib/extend';
+import mergeProps from '@caxa-form/utils/lib/mergeprops';
+import is, {hasProperty} from '@caxa-form/utils/lib/type';
 import {_vue as Vue} from '../frame';
-import {tip} from '@form-create/utils/lib/console';
+import {tip} from '@caxa-form/utils/lib/console';
 import {invoke, mergeRule} from '../frame/util';
-import toCase, {lower} from '@form-create/utils/lib/tocase';
-import {deepSet} from '@form-create/utils';
+import toCase, {lower} from '@caxa-form/utils/lib/tocase';
+import {deepSet} from '@caxa-form/utils';
 
 function setTempProps(vm, ctx, api) {
     if (!vm.$props) return;

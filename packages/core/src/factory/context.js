@@ -1,9 +1,9 @@
-import unique from '@form-create/utils/lib/unique';
-import toCase from '@form-create/utils/lib/tocase';
-import extend from '@form-create/utils/lib/extend';
-import mergeProps from '@form-create/utils/lib/mergeprops';
+import unique from '@caxa-form/utils/lib/unique';
+import toCase from '@caxa-form/utils/lib/tocase';
+import extend from '@caxa-form/utils/lib/extend';
+import mergeProps from '@caxa-form/utils/lib/mergeprops';
 import {enumerable} from '../frame/util';
-import {deepCopy} from '@form-create/utils/lib/deepextend';
+import {deepCopy} from '@caxa-form/utils/lib/deepextend';
 
 function bind(ctx) {
     Object.defineProperties(ctx.origin, {

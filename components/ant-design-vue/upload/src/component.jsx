@@ -1,7 +1,7 @@
-import toString from '@form-create/utils/lib/tostring';
-import deepExtend from '@form-create/utils/lib/deepextend';
-import toArray from '@form-create/utils/lib/toarray';
-import getSlot from '@form-create/utils/lib/slot';
+import toString from '@caxa-form/utils/lib/tostring';
+import deepExtend from '@caxa-form/utils/lib/deepextend';
+import toArray from '@caxa-form/utils/lib/toarray';
+import getSlot from '@caxa-form/utils/lib/slot';
 
 const parseFile = function (file, uid) {
         return {

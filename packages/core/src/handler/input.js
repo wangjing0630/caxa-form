@@ -1,8 +1,8 @@
-import extend from '@form-create/utils/lib/extend';
-import {$set} from '@form-create/utils/lib';
-import is, {hasProperty} from '@form-create/utils/lib/type';
+import extend from '@caxa-form/utils/lib/extend';
+import {$set} from '@caxa-form/utils/lib';
+import is, {hasProperty} from '@caxa-form/utils/lib/type';
 import {invoke} from '../frame/util';
-import toArray from '@form-create/utils/lib/toarray';
+import toArray from '@caxa-form/utils/lib/toarray';
 
 export default function useInput(Handler) {
     extend(Handler.prototype, {

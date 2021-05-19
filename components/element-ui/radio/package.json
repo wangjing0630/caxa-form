@@ -1,7 +1,7 @@
 {
-  "name": "@form-create/component-elm-radio",
+  "name": "@caxa-form/component-elm-radio",
   "version": "2.5.7",
-  "description": "@form-create/element-ui 内置组件",
+  "description": "@caxa-form/element-ui 内置组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "unpkg": "./dist/index.js",
@@ -19,7 +19,7 @@
     "dist"
   ],
   "keywords": [
-    "@form-create",
+    "@caxa-form",
     "form-create-component",
     "element-ui"
   ],
@@ -37,6 +37,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@form-create/utils": "^2.5.7"
-  }
+    "@caxa-form/utils": "^2.5.7"
+  },
+  "gitHead": "6ed87214f2e09394b2d40ca09989a1e6c572cfed"
 }

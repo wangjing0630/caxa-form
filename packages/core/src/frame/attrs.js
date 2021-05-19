@@ -1,4 +1,4 @@
-import {functionalMerge, normalMerge, toArrayMerge} from '@form-create/utils/lib/mergeprops';
+import {functionalMerge, normalMerge, toArrayMerge} from '@caxa-form/utils/lib/mergeprops';
 
 
 export const keyAttrs = ['type', 'slot', 'emitPrefix', 'value', 'name', 'native', 'hidden', 'display', 'inject', 'options', 'emit', 'nativeEmit', 'link', 'prefix', 'suffix', 'update', 'sync', 'optionsTo'];

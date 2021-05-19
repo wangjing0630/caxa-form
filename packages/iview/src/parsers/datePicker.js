@@ -1,5 +1,5 @@
-import is from '@form-create/utils/lib/type';
-import {creatorFactory} from '@form-create/core/src/index';
+import is from '@caxa-form/utils/lib/type';
+import {creatorFactory} from '@caxa-form/core/src/index';
 
 export function timeStampToDate(timeStamp) {
     if (is.Date(timeStamp))

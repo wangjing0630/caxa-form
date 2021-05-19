@@ -1,5 +1,5 @@
 {
-    "name": "@form-create/utils",
+    "name": "@caxa-form/utils",
     "version": "2.5.7",
     "description": "",
     "main": "./lib/index.js",
@@ -13,7 +13,7 @@
         "lib"
     ],
     "keywords": [
-        "@form-create"
+        "@caxa-form"
     ],
     "repository": {
         "type": "git",
@@ -27,5 +27,6 @@
     "homepage": "http://www.form-create.com",
     "publishConfig": {
         "access": "public"
-    }
+    },
+    "gitHead": "6ed87214f2e09394b2d40ca09989a1e6c572cfed"
 }

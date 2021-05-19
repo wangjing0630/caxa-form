@@ -1,8 +1,8 @@
-import deepExtend from '@form-create/utils/lib/deepextend';
-import is from '@form-create/utils/lib/type';
-import mergeProps from '@form-create/utils/lib/mergeprops';
+import deepExtend from '@caxa-form/utils/lib/deepextend';
+import is from '@caxa-form/utils/lib/type';
+import mergeProps from '@caxa-form/utils/lib/mergeprops';
 import {arrayAttrs, normalAttrs} from './attrs';
-import {err, logError} from '@form-create/utils/lib/console';
+import {err, logError} from '@caxa-form/utils/lib/console';
 
 const PREFIX = '[[FORM-CREATE-PREFIX-';
 const SUFFIX = '-FORM-CREATE-SUFFIX]]';

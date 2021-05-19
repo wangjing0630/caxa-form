@@ -1,5 +1,5 @@
 {
-    "name": "@form-create/element-ui",
+    "name": "@caxa-form/element-ui",
     "version": "2.5.7",
     "description": "element-ui动态表单|form-create is a form generation component that can generate dynamic rendering, data collection, verification and submission functions through JSON. Supports 3 UI frameworks, and supports the generation of any Vue components. Built-in 20 kinds of commonly used form components and custom components, no matter how complex forms can be easily handled.",
     "main": "./dist/form-create.min.js",
@@ -19,7 +19,7 @@
     },
     "keywords": [
         "动态表单",
-        "@form-create",
+        "@caxa-form",
         "form-builder",
         "form",
         "components",
@@ -43,26 +43,27 @@
     },
     "homepage": "http://www.form-create.com",
     "dependencies": {
-        "@form-create/component-elm-checkbox": "^2.5.7",
-        "@form-create/component-elm-frame": "^2.5.7",
-        "@form-create/component-elm-group": "^2.5.7",
-        "@form-create/component-elm-radio": "^2.5.7",
-        "@form-create/component-elm-select": "^2.5.7",
-        "@form-create/component-elm-tree": "^2.5.7",
-        "@form-create/component-elm-upload": "^2.5.7",
-        "@form-create/component-subform": "^2.5.7",
-        "@form-create/core": "^2.5.7",
-        "@form-create/utils": "^2.5.7"
+        "@caxa-form/component-elm-checkbox": "^2.5.7",
+        "@caxa-form/component-elm-frame": "^2.5.7",
+        "@caxa-form/component-elm-group": "^2.5.7",
+        "@caxa-form/component-elm-radio": "^2.5.7",
+        "@caxa-form/component-elm-select": "^2.5.7",
+        "@caxa-form/component-elm-tree": "^2.5.7",
+        "@caxa-form/component-elm-upload": "^2.5.7",
+        "@caxa-form/component-subform": "^2.5.7",
+        "@caxa-form/core": "^2.5.7",
+        "@caxa-form/utils": "^2.5.7"
     },
     "publishConfig": {
         "access": "public"
     },
     "devDependencies": {
-        "@form-create/component-wangeditor": "^2.5.7",
+        "@caxa-form/component-wangeditor": "^2.5.7",
         "@vue/cli-plugin-babel": "~4.5.0",
         "@vue/cli-service": "^4.5.3",
         "@vue/composition-api": "^1.0.0-beta.22",
         "element-ui": "^2.13.2",
         "v-jsoneditor": "^1.4.2"
-    }
+    },
+    "gitHead": "6ed87214f2e09394b2d40ca09989a1e6c572cfed"
 }

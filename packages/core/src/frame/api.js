@@ -1,9 +1,9 @@
 import {byCtx, invoke, mergeRule, toJson} from './util';
-import {$set} from '@form-create/utils/lib/modify';
-import {deepCopy} from '@form-create/utils/lib/deepextend';
-import is, {hasProperty} from '@form-create/utils/lib/type';
-import extend from '@form-create/utils/lib/extend';
-import {err, format} from '@form-create/utils/lib/console';
+import {$set} from '@caxa-form/utils/lib/modify';
+import {deepCopy} from '@caxa-form/utils/lib/deepextend';
+import is, {hasProperty} from '@caxa-form/utils/lib/type';
+import extend from '@caxa-form/utils/lib/extend';
+import {err, format} from '@caxa-form/utils/lib/console';
 
 
 function copy(value) {

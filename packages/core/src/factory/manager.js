@@ -1,6 +1,6 @@
-import mergeProps from '@form-create/utils/lib/mergeprops';
-import unique from '@form-create/utils/lib/unique';
-import extend from '@form-create/utils/lib/extend';
+import mergeProps from '@caxa-form/utils/lib/mergeprops';
+import unique from '@caxa-form/utils/lib/unique';
+import extend from '@caxa-form/utils/lib/extend';
 
 export function createManager(proto) {
     class CustomManager extends Manager {

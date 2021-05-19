@@ -7,15 +7,15 @@ import {creatorFactory} from '..';
 import BaseParser from '../factory/parser';
 import {copyRule, copyRules, mergeGlobal, parseJson, toJson} from './util';
 import fragment from '../components/fragment';
-import is from '@form-create/utils/lib/type';
-import toCase from '@form-create/utils/lib/tocase';
-import extend from '@form-create/utils/lib/extend';
+import is from '@caxa-form/utils/lib/type';
+import toCase from '@caxa-form/utils/lib/tocase';
+import extend from '@caxa-form/utils/lib/extend';
 import {CreateNodeFactory} from '../factory/node';
 import {createManager} from '../factory/manager';
 import {arrayAttrs, keyAttrs, normalAttrs} from './attrs';
 import {appendProto} from '../factory/creator';
 import $fetch from './provider';
-import {deepCopy} from '@form-create/utils/lib/deepextend';
+import {deepCopy} from '@caxa-form/utils/lib/deepextend';
 
 export let _vue = typeof window !== 'undefined' && window.Vue ? window.Vue : Vue;
 

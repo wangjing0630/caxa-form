@@ -1,6 +1,6 @@
-import extend from '@form-create/utils/lib/extend';
-import is, {hasProperty} from '@form-create/utils/lib/type';
-import mergeProps from '@form-create/utils/lib/mergeprops';
+import extend from '@caxa-form/utils/lib/extend';
+import is, {hasProperty} from '@caxa-form/utils/lib/type';
+import mergeProps from '@caxa-form/utils/lib/mergeprops';
 
 
 export default function useEffect(Handler) {

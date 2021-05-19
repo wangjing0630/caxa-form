@@ -1,4 +1,4 @@
-import {FormData, VNodeData} from "@form-create/core";
+import {FormData, VNodeData} from "@caxa-form/core";
 import {Button, Col, Popover, Row, Tooltip} from "ant-design-vue";
 import {Api} from "./index";
 

@@ -8,7 +8,7 @@ import {
     Api as $Api,
     Effect as $Effect,
     Parser as $Parser
-} from "@form-create/core";
+} from "@caxa-form/core";
 import Maker from "./maker";
 import {ApiAttrs, CreatorAttrs, OptionAttrs, RuleAttrs} from "./config";
 

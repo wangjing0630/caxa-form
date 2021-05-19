@@ -1,5 +1,5 @@
 {
-    "name": "form-create",
+    "name": "caxa-form",
     "private": true,
     "scripts": {
         "build": "node tools/cli/run.js build",

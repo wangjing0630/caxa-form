@@ -1,7 +1,7 @@
 import getConfig from './config';
-import mergeProps from '@form-create/utils/lib/mergeprops';
-import is, {hasProperty} from '@form-create/utils/lib/type';
-import extend from '@form-create/utils/lib/extend';
+import mergeProps from '@caxa-form/utils/lib/mergeprops';
+import is, {hasProperty} from '@caxa-form/utils/lib/type';
+import extend from '@caxa-form/utils/lib/extend';
 
 function isTooltip(info) {
     return info.type === 'tooltip';

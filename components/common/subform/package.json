@@ -1,7 +1,7 @@
 {
-  "name": "@form-create/component-subform",
+  "name": "@caxa-form/component-subform",
   "version": "2.5.7",
-  "description": "@form-create 内置组件",
+  "description": "@caxa-form 内置组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "unpkg": "./dist/index.js",
@@ -19,7 +19,7 @@
     "dist"
   ],
   "keywords": [
-    "@form-create",
+    "@caxa-form",
     "form-create-component",
     "form-create-common-component"
   ],
@@ -35,5 +35,6 @@
   "homepage": "http://www.form-create.com",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "6ed87214f2e09394b2d40ca09989a1e6c572cfed"
 }

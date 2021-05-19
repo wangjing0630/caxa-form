@@ -1,8 +1,8 @@
-import extend from '@form-create/utils/lib/extend';
-import toCase from '@form-create/utils/lib/tocase';
+import extend from '@caxa-form/utils/lib/extend';
+import toCase from '@caxa-form/utils/lib/tocase';
 import BaseParser from '../factory/parser';
-import {$del, $set} from '@form-create/utils/lib';
-import is from '@form-create/utils/lib/type';
+import {$del, $set} from '@caxa-form/utils/lib';
+import is from '@caxa-form/utils/lib/type';
 import {invoke} from '../frame/util';
 
 

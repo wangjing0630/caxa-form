@@ -1,10 +1,10 @@
-import extend from '@form-create/utils/lib/extend';
+import extend from '@caxa-form/utils/lib/extend';
 import {byCtx, copyRule, enumerable, getRule, invoke, parseFn} from '../frame/util';
-import is, {hasProperty} from '@form-create/utils/lib/type';
-import {err} from '@form-create/utils/lib/console';
+import is, {hasProperty} from '@caxa-form/utils/lib/type';
+import {err} from '@caxa-form/utils/lib/console';
 import {baseRule} from '../factory/creator';
 import RuleContext from '../factory/context';
-import mergeProps from '@form-create/utils/lib/mergeprops';
+import mergeProps from '@caxa-form/utils/lib/mergeprops';
 
 export default function useLoader(Handler) {
     extend(Handler.prototype, {

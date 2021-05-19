@@ -1,7 +1,7 @@
 {
-  "name": "@form-create/component-wangeditor",
+  "name": "@caxa-form/component-wangeditor",
   "version": "2.5.7",
-  "description": "@form-create 富文本组件",
+  "description": "@caxa-form 富文本组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "unpkg": "./dist/index.js",
@@ -19,7 +19,7 @@
     "dist"
   ],
   "keywords": [
-    "@form-create",
+    "@caxa-form",
     "form-create-component",
     "form-create-common-component"
   ],
@@ -38,5 +38,6 @@
   },
   "dependencies": {
     "wangeditor": "^4.6.0"
-  }
+  },
+  "gitHead": "6ed87214f2e09394b2d40ca09989a1e6c572cfed"
 }

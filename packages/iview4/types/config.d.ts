@@ -1,4 +1,4 @@
-import {FormData, VNodeData} from "@form-create/core";
+import {FormData, VNodeData} from "@caxa-form/core";
 import {Col, Row, Tooltip, Poptip, Button} from "view-design";
 import {Api} from "./index";
 

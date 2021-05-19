@@ -1,4 +1,4 @@
-import is from '@form-create/utils/lib/type';
+import is from '@caxa-form/utils/lib/type';
 
 const NAME = 'fcSelect';
 export default {
