@@ -1,6 +1,6 @@
 {
   "name": "@caxa-form/component-antdv-group",
-  "version": "2.5.7",
+  "version": "2.5.8",
   "description": "@caxa-form/ant-design-vue 内置组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -30,7 +30,7 @@
   "author": "xaboy",
   "license": "MIT",
   "dependencies": {
-    "@caxa-form/utils": "^2.5.7"
+    "@caxa-form/utils": "^2.5.8"
   },
   "bugs": {
     "url": "https://github.com/xaboy/form-create/issues"

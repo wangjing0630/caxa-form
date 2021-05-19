@@ -1,6 +1,6 @@
 {
   "name": "@caxa-form/component-ivu-radio",
-  "version": "2.5.7",
+  "version": "2.5.8",
   "description": "@caxa-form/iview 内置组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -38,7 +38,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@caxa-form/utils": "^2.5.7"
+    "@caxa-form/utils": "^2.5.8"
   },
   "gitHead": "6ed87214f2e09394b2d40ca09989a1e6c572cfed"
 }

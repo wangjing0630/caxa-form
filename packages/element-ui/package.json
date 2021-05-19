@@ -1,6 +1,6 @@
 {
     "name": "@caxa-form/element-ui",
-    "version": "2.5.7",
+    "version": "2.5.8",
     "description": "element-ui动态表单|form-create is a form generation component that can generate dynamic rendering, data collection, verification and submission functions through JSON. Supports 3 UI frameworks, and supports the generation of any Vue components. Built-in 20 kinds of commonly used form components and custom components, no matter how complex forms can be easily handled.",
     "main": "./dist/form-create.min.js",
     "module": "./dist/form-create.min.js",
@@ -43,22 +43,22 @@
     },
     "homepage": "http://www.form-create.com",
     "dependencies": {
-        "@caxa-form/component-elm-checkbox": "^2.5.7",
-        "@caxa-form/component-elm-frame": "^2.5.7",
-        "@caxa-form/component-elm-group": "^2.5.7",
-        "@caxa-form/component-elm-radio": "^2.5.7",
-        "@caxa-form/component-elm-select": "^2.5.7",
-        "@caxa-form/component-elm-tree": "^2.5.7",
-        "@caxa-form/component-elm-upload": "^2.5.7",
-        "@caxa-form/component-subform": "^2.5.7",
-        "@caxa-form/core": "^2.5.7",
-        "@caxa-form/utils": "^2.5.7"
+        "@caxa-form/component-elm-checkbox": "^2.5.8",
+        "@caxa-form/component-elm-frame": "^2.5.8",
+        "@caxa-form/component-elm-group": "^2.5.8",
+        "@caxa-form/component-elm-radio": "^2.5.8",
+        "@caxa-form/component-elm-select": "^2.5.8",
+        "@caxa-form/component-elm-tree": "^2.5.8",
+        "@caxa-form/component-elm-upload": "^2.5.8",
+        "@caxa-form/component-subform": "^2.5.8",
+        "@caxa-form/core": "^2.5.8",
+        "@caxa-form/utils": "^2.5.8"
     },
     "publishConfig": {
         "access": "public"
     },
     "devDependencies": {
-        "@caxa-form/component-wangeditor": "^2.5.7",
+        "@caxa-form/component-wangeditor": "^2.5.8",
         "@vue/cli-plugin-babel": "~4.5.0",
         "@vue/cli-service": "^4.5.3",
         "@vue/composition-api": "^1.0.0-beta.22",
