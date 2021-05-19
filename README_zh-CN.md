@@ -9,94 +9,94 @@
 
 [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/xaboy/form-create)
 [![github](https://img.shields.io/badge/Author-xaboy-blue.svg)](https://github.com/xaboy)
-[![document](https://img.shields.io/badge/Doc-welcome-red.svg)](http://www.form-create.com/en/v2/)
+[![document](https://img.shields.io/badge/Doc-welcome-red.svg)](http://www.form-create.com/v2/)
 
-**form-create is a form generation component that can generate dynamic rendering, data collection, verification and submission functions through JSON. Supports 3 UI frameworks, and supports the generation of any Vue components. Built-in 20 kinds of commonly used form components and custom components, no matter how complex forms can be easily handled.**
+
+**form-create 是一个可以通过 JSON 生成具有动态渲染、数据收集、验证和提交功能的表单生成组件。支持3个UI框架，并且支持生成任何 Vue 组件。内置20种常用表单组件和自定义组件，再复杂的表单都可以轻松搞定。**
 
 [开源的vue可视化表单设计器组件](https://github.com/xaboy/form-create-designer) ([功能演示](http://form-create.com/designer?fr=fc))
 
-## [中文 README](https://github.com/xaboy/form-create/blob/2.5/README_zh-CN.md)
-
-## Support
+## 支持
 - **iview**
 - **view-design**
 - **element-ui**
 - **ant-design-vue**
 
-If you have a form component suitable for form-create, please feel free to [click here to leave a message](https://github.com/xaboy/form-create/issues/124)
+如果您有适合 form-create 的表单组件, 欢迎[点击这里留言](https://github.com/xaboy/form-create/issues/124)
 
->  If it helps, you can click on "Star" in the upper right corner. Thank you!
->  The project is still being developed and improved. If there are any 'recommendations or questions, please ask [here](https://github.com/xaboy/form-create/issues/new)
+> 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！本项目还在不断开发完善中,如有任何建议或问题[请在这里提出](https://github.com/xaboy/form-create/issues/new)
 
 > 本项目QQ讨论群[28963712](https://jq.qq.com/?_wv=1027&k=54aKUVw)
 
-> [Update log](http://www.form-create.com/en/v2/guide/update.html)
+> [更新日志](http://www.form-create.com/v2/guide/update.html)
 
-- **Preview**
+- **预览**
 
 ![demo1](https://raw.githubusercontent.com/xaboy/form-create/dev/images/demo-live3.gif)
 
 <details>
-<summary><b>More</b></summary>
+<summary><b>更多</b></summary>
 
-- **Form operations**
+- **操作表单**
 
-[description](http://www.form-create.com/en/v2/instance.html)
+[详细说明](http://www.form-create.com/v2/instance.html)
 
 ![demo2](https://raw.githubusercontent.com/xaboy/form-create/dev/images/demo-live2.gif)
 
-- **`group` component**
+- **`group` 组件**
 
-[description](http://www.form-create.com/en/v2/guide/group.html)
+[详细说明](http://www.form-create.com/v2/guide/group.html)
 
 ![demo3](https://raw.githubusercontent.com/xaboy/form-create/dev/images/demo-group.gif)
 
-- **`control` configuration**
+- **`control` 配置项**
 
-[description](http://www.form-create.com/en/v2/guide/control.html)
+[详细说明](http://www.form-create.com/v2/guide/control.html)
 
 ![demo2](https://raw.githubusercontent.com/xaboy/form-create/dev/images/demo-live4.gif)
 </details>
 
-## Docs
+## 文档
 
 [简体中文](http://www.form-create.com/v2/) | [English](http://www.form-create.com/en/v2/)
 
 
-## Packages
+## 包说明
 
-| Name               | Description                                                |
+| 包名             | 说明                                                |
 | ------------------ | ---------------------------------------------------------- |
-| @form-create/iview [![version](https://img.shields.io/npm/v/@form-create/iview.svg)](https://www.npmjs.com/package/@form-create/iview) [![npm](https://img.shields.io/npm/dt/@form-create/iview.svg)](https://www.npmjs.com/package/@form-create/iview)    | [iview version](http://form-create.com/v2/iview/) |
-| @form-create/iview4 [![version](https://img.shields.io/npm/v/@form-create/iview4.svg)](https://www.npmjs.com/package/@form-create/iview4) [![npm](https://img.shields.io/npm/dt/@form-create/iview4.svg)](https://www.npmjs.com/package/@form-create/iview4)    | [view-design version](http://form-create.com/v2/iview/) |
-| @form-create/element-ui [![version](https://img.shields.io/npm/v/@form-create/element-ui.svg)](https://www.npmjs.com/package/@form-create/element-ui) [![npm](https://img.shields.io/npm/dt/@form-create/element-ui.svg)](https://www.npmjs.com/package/@form-create/element-ui) | [element-ui version](http://form-create.com/v2/element-ui/)        |
-| @form-create/ant-design-vue [![version](https://img.shields.io/npm/v/@form-create/ant-design-vue.svg)](https://www.npmjs.com/package/@form-create/ant-design-vue) [![npm](https://img.shields.io/npm/dt/@form-create/ant-design-vue.svg)](https://www.npmjs.com/package/@form-create/ant-design-vue) | [ant-design-vue version](http://form-create.com/v2/ant-design-vue/)     |
-| @form-create/designer [![version](https://img.shields.io/npm/v/@form-create/designer.svg)](https://www.npmjs.com/package/@form-create/designer) [![npm](https://img.shields.io/npm/dt/@form-create/designer.svg)](https://www.npmjs.com/package/@form-create/designer) | [Form Designer](http://form-create.com/designer)     |
+| @form-create/iview [![version](https://img.shields.io/npm/v/@form-create/iview.svg)](https://www.npmjs.com/package/@form-create/iview) [![npm](https://img.shields.io/npm/dt/@form-create/iview.svg)](https://www.npmjs.com/package/@form-create/iview)    | [iview 版本](http://form-create.com/v2/iview/) |
+| @form-create/iview4 [![version](https://img.shields.io/npm/v/@form-create/iview4.svg)](https://www.npmjs.com/package/@form-create/iview4) [![npm](https://img.shields.io/npm/dt/@form-create/iview4.svg)](https://www.npmjs.com/package/@form-create/iview4)    | [view-design 版本](http://form-create.com/v2/iview/) |
+| @form-create/element-ui [![version](https://img.shields.io/npm/v/@form-create/element-ui.svg)](https://www.npmjs.com/package/@form-create/element-ui) [![npm](https://img.shields.io/npm/dt/@form-create/element-ui.svg)](https://www.npmjs.com/package/@form-create/element-ui) | [element-ui 版本](http://form-create.com/v2/element-ui/)        |
+| @form-create/ant-design-vue [![version](https://img.shields.io/npm/v/@form-create/ant-design-vue.svg)](https://www.npmjs.com/package/@form-create/ant-design-vue) [![npm](https://img.shields.io/npm/dt/@form-create/ant-design-vue.svg)](https://www.npmjs.com/package/@form-create/ant-design-vue) | [ant-design-vue 版本](http://form-create.com/v2/ant-design-vue/)     |
+| @form-create/designer [![version](https://img.shields.io/npm/v/@form-create/designer.svg)](https://www.npmjs.com/package/@form-create/designer) [![npm](https://img.shields.io/npm/dt/@form-create/designer.svg)](https://www.npmjs.com/package/@form-create/designer) | [表单设计器](http://form-create.com/designer)     |
 
-## Example
 
-- [Demo case](https://github.com/HeyMrLin/fc-demo) ([Demo station](http://jeekweb.pro/form-create-demo))
 
-- [Generate a form using the maker generator](https://jsrun.net/NQhKp/edit)
+## 示例
 
-- [Generate a form using the json parameter](https://jsrun.net/NQhKp/edit)
+- [演示案例](https://github.com/HeyMrLin/fc-demo) ([演示站](http://jeekweb.pro/form-create-demo))
 
-- [Component example](http://www.form-create.com/en/v2/guide/demo.html)
+- [使用生成器生成](https://jsrun.net/NQhKp/edit)
+
+- [使用 json 生成](https://jsrun.net/NQhKp/edit)
+
+- [各种示例](http://www.form-create.com/v2/guide/demo.html)
 
 
 
 <details>
-<summary><b>Legend</b></summary>
+<summary><b>图例</b></summary>
 
 ![https://raw.githubusercontent.com/xaboy/form-create/dev/images/sample110.jpg](https://raw.githubusercontent.com/xaboy/form-create/dev/images/sample110.jpg)
 </details>
 
 
-## Install
+## 安装
 
-> Install the corresponding version according to the UI you use
+> 根据自己使用的 UI 安装对应的版本
 
->iview
+iview
 ```shell
 npm install @form-create/iview
 ```
@@ -116,7 +116,7 @@ ant-design-vue
 npm install @form-create/ant-design-vue
 ```
 
-## Import
+## 引入
 
 **CDN:**
 
@@ -158,7 +158,6 @@ ant-design-vue
 <!-- import form-create -->
 <script src="//unpkg.com/@form-create/ant-design-vue/dist/form-create.min.js"></script>
 ```
-
 **NodeJs:**
 
 iview
@@ -179,7 +178,8 @@ import formCreate from '@form-create/ant-design-vue'
 Vue.use(formCreate)
 ```
 
-## Usage
+
+##  使用
 
 ```html
 <form-create :rule="rule" v-model="fApi" :option="options" :value.sync="value"/>
@@ -201,14 +201,14 @@ export default {
                 {type:'timePicker', field:'time',title:'time',value:'12:12:12'},
                 {
                     type:'ElButton',
-                    title:'Modify field1',
+                    title:'修改 field1',
                     native: false,
                     on:{
                         click: ()=>{
                             this.rule[0].value+='a'
                         }
                     },
-                    children: ['Click'],
+                    children: ['点击'],
                 }
             ]
         }
@@ -216,44 +216,44 @@ export default {
 }
 ```
 
+## 示例
 
-## Demo
-
-Download project
+下载项目
 ```sh
 $ git clone https://github.com/xaboy/form-create.git
 $ cd form-create
 ```
-Install dependencies
+安装依赖
 ```sh
 $ npm run bootstrap
 ```
-iview Demo
+查看 iview 示例
 ```sh 
 $ npm run dev:iview
 ```
-view-design Demo
+查看 view-design 示例
 ```sh 
 $ npm run dev:iview4
 ```
-element-ui Demo
+查看 element-ui 示例
 ```sh 
 $ npm run dev:ele
 ```
-ant-design-vue Demo
+查看 ant-design-vue 示例
 ```sh 
 $ npm run dev:antd
 ```
 
-## Thank
+## 感谢
 
 [时光弧线](https://github.com/shiguanghuxian)  |  [wxxtqk](https://github.com/wxxtqk)  |  [williamBoss](https://github.com/williamBoss)  |  [HeyMrLin](https://github.com/HeyMrLin)  |  [djkloop](https://github.com/djkloop) | [JetBrains](https://www.jetbrains.com/?from=form-create)
 
-## Donation
+
+## 捐赠
 
 ![donation.jpg](http://form-create.com/img/donation.jpg)
 
-## Contact
+## 联系
 
 ##### email : xaboy2005@qq.com
 
