@@ -1,7 +1,6 @@
 {
   "packages": [
-    "packages/data",
-    "packages/element-ui"
+    "packages/data"
   ],
   "version": "2.5.15"
 }
