@@ -411,7 +411,7 @@ export default function mock() {
             type: 'wangEditor',
             field: 'txt',
             title: '富文本框',
-            value: '<h1 style="color: #419bf7;">form-create</h1><a href="https://github.com/wangjing11260/form-create">GitHub</a>'
+            value: '<h1 style="color: #419bf7;">form-create</h1><a href="https://github.com/wangjing0630/caxa-form">GitHub</a>'
         },
 
 

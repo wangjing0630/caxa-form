@@ -15,7 +15,7 @@ module.exports = {
         commonjs: true,
     },
     banner: {
-        author: `2018-${new Date().getFullYear()} ${author}\n * Github https://github.com/wangjing11260/form-create`,
+        author: `2018-${new Date().getFullYear()} ${author}\n * Github https://github.com/wangjing0630/caxa-form`,
         license,
         name,
         version

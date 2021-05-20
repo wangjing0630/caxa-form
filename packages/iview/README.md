@@ -7,7 +7,7 @@ form-create is a form generation component that can generate dynamic rendering, 
 >
 > form-create iview Dynamic form component
 
-[GitHub](https://github.com/wangjing11260/form-create) | [文档](http://form-create.com/v2/iview/) | [Document](http://form-create.com/en/v2/iview/)
+[GitHub](https://github.com/wangjing0630/caxa-form) | [文档](http://form-create.com/v2/iview/) | [Document](http://form-create.com/en/v2/iview/)
 
 
 - **预览**

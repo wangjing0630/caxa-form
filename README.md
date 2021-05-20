@@ -7,15 +7,15 @@
 
 # form-create
 
-[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/wangjing11260/form-create)
-[![github](https://img.shields.io/badge/Author-wangjing11260-blue.svg)](https://github.com/wangjing11260)
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/wangjing0630/caxa-form)
+[![github](https://img.shields.io/badge/Author-wangjing11260-blue.svg)](https://github.com/wangjing0630)
 [![document](https://img.shields.io/badge/Doc-welcome-red.svg)](http://www.form-create.com/en/v2/)
 
 **form-create is a form generation component that can generate dynamic rendering, data collection, verification and submission functions through JSON. Supports 3 UI frameworks, and supports the generation of any Vue components. Built-in 20 kinds of commonly used form components and custom components, no matter how complex forms can be easily handled.**
 
-[开源的vue可视化表单设计器组件](https://github.com/wangjing11260/form-create-designer) ([功能演示](http://form-create.com/designer?fr=fc))
+[开源的vue可视化表单设计器组件](https://github.com/wangjing0630/caxa-form-designer) ([功能演示](http://form-create.com/designer?fr=fc))
 
-## [中文 README](https://github.com/wangjing11260/form-create/blob/2.5/README_zh-CN.md)
+## [中文 README](https://github.com/wangjing0630/caxa-form/blob/2.5/README_zh-CN.md)
 
 ## Support
 - **iview**
@@ -23,10 +23,10 @@
 - **element-ui**
 - **ant-design-vue**
 
-If you have a form component suitable for form-create, please feel free to [click here to leave a message](https://github.com/wangjing11260/form-create/issues/124)
+If you have a form component suitable for form-create, please feel free to [click here to leave a message](https://github.com/wangjing0630/caxa-form/issues/124)
 
 >  If it helps, you can click on "Star" in the upper right corner. Thank you!
->  The project is still being developed and improved. If there are any 'recommendations or questions, please ask [here](https://github.com/wangjing11260/form-create/issues/new)
+>  The project is still being developed and improved. If there are any 'recommendations or questions, please ask [here](https://github.com/wangjing0630/caxa-form/issues/new)
 
 > 本项目QQ讨论群[28963712](https://jq.qq.com/?_wv=1027&k=54aKUVw)
 

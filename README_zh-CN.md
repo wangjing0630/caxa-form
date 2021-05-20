@@ -7,14 +7,14 @@
 
 # form-create
 
-[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/wangjing11260/form-create)
-[![github](https://img.shields.io/badge/Author-wangjing11260-blue.svg)](https://github.com/wangjing11260)
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/wangjing0630/caxa-form)
+[![github](https://img.shields.io/badge/Author-wangjing11260-blue.svg)](https://github.com/wangjing0630)
 [![document](https://img.shields.io/badge/Doc-welcome-red.svg)](http://www.form-create.com/v2/)
 
 
 **form-create 是一个可以通过 JSON 生成具有动态渲染、数据收集、验证和提交功能的表单生成组件。支持3个UI框架，并且支持生成任何 Vue 组件。内置20种常用表单组件和自定义组件，再复杂的表单都可以轻松搞定。**
 
-[开源的vue可视化表单设计器组件](https://github.com/wangjing11260/form-create-designer) ([功能演示](http://form-create.com/designer?fr=fc))
+[开源的vue可视化表单设计器组件](https://github.com/wangjing0630/caxa-form-designer) ([功能演示](http://form-create.com/designer?fr=fc))
 
 ## 支持
 - **iview**
@@ -22,9 +22,9 @@
 - **element-ui**
 - **ant-design-vue**
 
-如果您有适合 form-create 的表单组件, 欢迎[点击这里留言](https://github.com/wangjing11260/form-create/issues/124)
+如果您有适合 form-create 的表单组件, 欢迎[点击这里留言](https://github.com/wangjing0630/caxa-form/issues/124)
 
-> 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！本项目还在不断开发完善中,如有任何建议或问题[请在这里提出](https://github.com/wangjing11260/form-create/issues/new)
+> 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！本项目还在不断开发完善中,如有任何建议或问题[请在这里提出](https://github.com/wangjing0630/caxa-form/issues/new)
 
 > 本项目QQ讨论群[28963712](https://jq.qq.com/?_wv=1027&k=54aKUVw)
 

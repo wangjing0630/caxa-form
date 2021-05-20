@@ -3,9 +3,9 @@
 
 form-create is a form generation component that can generate dynamic rendering, data collection, verification and submission functions through JSON. Supports 3 UI frameworks, and supports the generation of any Vue components. Built-in 20 kinds of commonly used form components and custom components, no matter how complex forms can be easily handled.
 
-[GitHub](https://github.com/wangjing11260/form-create) | [文档](http://form-create.com/v2) | [Document](http://form-create.com/en/v2)
+[GitHub](https://github.com/wangjing0630/caxa-form) | [文档](http://form-create.com/v2) | [Document](http://form-create.com/en/v2)
 
-[开源的vue表单设计器组件](https://github.com/wangjing11260/form-create-designer) ([功能演示](http://form-create.com/designer?fr=fc))
+[开源的vue表单设计器组件](https://github.com/wangjing0630/caxa-form-designer) ([功能演示](http://form-create.com/designer?fr=fc))
 
 - **预览**
 

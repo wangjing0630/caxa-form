@@ -7,9 +7,9 @@ form-create is a form generation component that can generate dynamic rendering, 
 >
 > form-create element-ui Dynamic form component
 
-[GitHub](https://github.com/wangjing11260/form-create) | [文档](http://form-create.com/v2/element-ui/) | [Document](http://form-create.com/en/v2/element-ui/)
+[GitHub](https://github.com/wangjing0630/caxa-form) | [文档](http://form-create.com/v2/element-ui/) | [Document](http://form-create.com/en/v2/element-ui/)
 
-[开源的vue表单设计器组件](https://github.com/wangjing11260/form-create-designer) ([功能演示](http://form-create.com/designer?fr=fc))
+[开源的vue表单设计器组件](https://github.com/wangjing0630/caxa-form-designer) ([功能演示](http://form-create.com/designer?fr=fc))
 
 - **预览**
 
