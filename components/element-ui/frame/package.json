@@ -1,6 +1,6 @@
 {
   "name": "@caxa-form/component-elm-frame",
-  "version": "2.5.12",
+  "version": "2.5.13",
   "description": "@caxa-form/element-ui 内置组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -30,7 +30,7 @@
   "author": "wangjing11260",
   "license": "MIT",
   "dependencies": {
-    "@caxa-form/utils": "^2.5.12"
+    "@caxa-form/utils": "^2.5.13"
   },
   "bugs": {
     "url": "https://github.com/wangjing0630/caxa-form/issues"

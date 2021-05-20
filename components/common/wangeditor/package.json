@@ -1,6 +1,6 @@
 {
   "name": "@caxa-form/component-wangeditor",
-  "version": "2.5.12",
+  "version": "2.5.13",
   "description": "@caxa-form 富文本组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
