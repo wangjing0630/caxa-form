@@ -28,11 +28,5 @@
     "components/iview/tree",
     "components/iview/upload"
   ],
-  "version": "2.5.13",
-  "useWorkspaces": true,
-  "command": {
-    "publish": {
-      "tempTag": true
-    }
-  }
+  "version": "2.5.13"
 }
