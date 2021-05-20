@@ -1,5 +1,6 @@
 {
   "name": "caxa-form",
+  "private": true,
   "publishConfig": {
     "access": "public"
   },
