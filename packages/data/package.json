@@ -26,12 +26,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/xaboy/form-create.git"
+        "url": "git+https://github.com/wangjing0630/caxa-form.git"
     },
-    "author": "xaboy",
+    "author": "wangjing11260",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/xaboy/form-create/issues"
+        "url": "https://github.com/wangjing11260/form-create/issues"
     },
     "homepage": "http://www.form-create.com",
     "publishConfig": {

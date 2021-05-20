@@ -35,11 +35,11 @@ export default function rule() {
 
 
         //autoComplete 自动选择组件
-        maker.auto('自动完成', 'auto', 'xaboy').props({dataSource: ['aa', 'bb']}).on({
+        maker.auto('自动完成', 'auto', 'wangjing11260').props({dataSource: ['aa', 'bb']}).on({
             search: function (inject, value) {
                 inject.self.props({dataSource: !value ? [] : [value, value + value, value + value + value]});
             }
-        }).emitPrefix('xaboy').emit(['change']).inject(true),
+        }).emitPrefix('wangjing11260').emit(['change']).inject(true),
 
 
         //textarea 组件
@@ -314,7 +314,7 @@ export default function rule() {
             type: 'wangEditor',
             field: 'txt',
             title: '富文本框',
-            value: '<h1 style="color: #419bf7;">form-create</h1><a href="https://github.com/xaboy/form-create">GitHub</a>'
+            value: '<h1 style="color: #419bf7;">form-create</h1><a href="https://github.com/wangjing11260/form-create">GitHub</a>'
         },
 
         //upload 上传组件

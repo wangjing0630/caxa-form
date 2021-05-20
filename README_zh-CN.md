@@ -7,14 +7,14 @@
 
 # form-create
 
-[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/xaboy/form-create)
-[![github](https://img.shields.io/badge/Author-xaboy-blue.svg)](https://github.com/xaboy)
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/wangjing11260/form-create)
+[![github](https://img.shields.io/badge/Author-wangjing11260-blue.svg)](https://github.com/wangjing11260)
 [![document](https://img.shields.io/badge/Doc-welcome-red.svg)](http://www.form-create.com/v2/)
 
 
 **form-create 是一个可以通过 JSON 生成具有动态渲染、数据收集、验证和提交功能的表单生成组件。支持3个UI框架，并且支持生成任何 Vue 组件。内置20种常用表单组件和自定义组件，再复杂的表单都可以轻松搞定。**
 
-[开源的vue可视化表单设计器组件](https://github.com/xaboy/form-create-designer) ([功能演示](http://form-create.com/designer?fr=fc))
+[开源的vue可视化表单设计器组件](https://github.com/wangjing11260/form-create-designer) ([功能演示](http://form-create.com/designer?fr=fc))
 
 ## 支持
 - **iview**
@@ -22,9 +22,9 @@
 - **element-ui**
 - **ant-design-vue**
 
-如果您有适合 form-create 的表单组件, 欢迎[点击这里留言](https://github.com/xaboy/form-create/issues/124)
+如果您有适合 form-create 的表单组件, 欢迎[点击这里留言](https://github.com/wangjing11260/form-create/issues/124)
 
-> 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！本项目还在不断开发完善中,如有任何建议或问题[请在这里提出](https://github.com/xaboy/form-create/issues/new)
+> 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！本项目还在不断开发完善中,如有任何建议或问题[请在这里提出](https://github.com/wangjing11260/form-create/issues/new)
 
 > 本项目QQ讨论群[28963712](https://jq.qq.com/?_wv=1027&k=54aKUVw)
 
@@ -32,7 +32,7 @@
 
 - **预览**
 
-![demo1](https://raw.githubusercontent.com/xaboy/form-create/dev/images/demo-live3.gif)
+![demo1](https://raw.githubusercontent.com/wangjing11260/form-create/dev/images/demo-live3.gif)
 
 <details>
 <summary><b>更多</b></summary>
@@ -41,19 +41,19 @@
 
 [详细说明](http://www.form-create.com/v2/instance.html)
 
-![demo2](https://raw.githubusercontent.com/xaboy/form-create/dev/images/demo-live2.gif)
+![demo2](https://raw.githubusercontent.com/wangjing11260/form-create/dev/images/demo-live2.gif)
 
 - **`group` 组件**
 
 [详细说明](http://www.form-create.com/v2/guide/group.html)
 
-![demo3](https://raw.githubusercontent.com/xaboy/form-create/dev/images/demo-group.gif)
+![demo3](https://raw.githubusercontent.com/wangjing11260/form-create/dev/images/demo-group.gif)
 
 - **`control` 配置项**
 
 [详细说明](http://www.form-create.com/v2/guide/control.html)
 
-![demo2](https://raw.githubusercontent.com/xaboy/form-create/dev/images/demo-live4.gif)
+![demo2](https://raw.githubusercontent.com/wangjing11260/form-create/dev/images/demo-live4.gif)
 </details>
 
 ## 文档
@@ -88,7 +88,7 @@
 <details>
 <summary><b>图例</b></summary>
 
-![https://raw.githubusercontent.com/xaboy/form-create/dev/images/sample110.jpg](https://raw.githubusercontent.com/xaboy/form-create/dev/images/sample110.jpg)
+![https://raw.githubusercontent.com/wangjing11260/form-create/dev/images/sample110.jpg](https://raw.githubusercontent.com/wangjing11260/form-create/dev/images/sample110.jpg)
 </details>
 
 
@@ -220,7 +220,7 @@ export default {
 
 下载项目
 ```sh
-$ git clone https://github.com/xaboy/form-create.git
+$ git clone https://github.com/wangjing0630/caxa-form.git
 $ cd form-create
 ```
 安装依赖
@@ -255,10 +255,10 @@ $ npm run dev:antd
 
 ## 联系
 
-##### email : xaboy2005@qq.com
+##### email : wangjing112602005@qq.com
 
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018-present xaboy
+Copyright (c) 2018-present wangjing11260

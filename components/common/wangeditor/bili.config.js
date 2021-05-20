@@ -14,7 +14,7 @@ module.exports = {
         }
     },
     banner: {
-        author: `2018-${new Date().getFullYear()} ${author}\n * Github https://github.com/xaboy/form-create with ${name}`,
+        author: `2018-${new Date().getFullYear()} ${author}\n * Github https://github.com/wangjing11260/form-create with ${name}`,
         license,
         name,
         version

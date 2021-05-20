@@ -67,7 +67,7 @@ export default function jsonMock() {
             type: "autoComplete",
             title: "自动完成",
             field: "auto",
-            value: "xaboy",
+            value: "wangjing11260",
             inject: true,
             props: {
                 dataSource: [],
@@ -321,7 +321,7 @@ export default function jsonMock() {
             type: 'wangEditor',
             field: 'txt',
             title: '富文本框',
-            value: '<h1 style="color: #419bf7;">form-create</h1><a href="https://github.com/xaboy/form-create">GitHub</a>'
+            value: '<h1 style="color: #419bf7;">form-create</h1><a href="https://github.com/wangjing11260/form-create">GitHub</a>'
         },
 
         //upload 上传组件

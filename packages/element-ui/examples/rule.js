@@ -64,13 +64,13 @@ export default function mock() {
 
 
         //autoComplete 自动选择组件
-        maker.auto('自动完成', 'auto', 'xaboy').props({
+        maker.auto('自动完成', 'auto', 'wangjing11260').props({
             fetchSuggestions: function (queryString, cb) {
                 cb([
                     {value: queryString}, {value: queryString + queryString}
                 ]);
             }
-        }).emitPrefix('xaboy').emit(['change']).link(['goods_info']).update((val, rule, $f) => {
+        }).emitPrefix('wangjing11260').emit(['change']).link(['goods_info']).update((val, rule, $f) => {
             console.log(val);
             return $f.getValue('goods_info') === 'goods_info';
         }),
@@ -411,7 +411,7 @@ export default function mock() {
             type: 'wangEditor',
             field: 'txt',
             title: '富文本框',
-            value: '<h1 style="color: #419bf7;">form-create</h1><a href="https://github.com/xaboy/form-create">GitHub</a>'
+            value: '<h1 style="color: #419bf7;">form-create</h1><a href="https://github.com/wangjing11260/form-create">GitHub</a>'
         },
 
 
