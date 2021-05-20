@@ -7,7 +7,6 @@
     "packages/iview",
     "packages/iview4",
     "packages/view-design",
-    "packages/utils",
     "components/ant-design-vue/frame",
     "components/ant-design-vue/group",
     "components/ant-design-vue/upload",
