@@ -22,8 +22,7 @@
     "components/iview/group",
     "components/iview/radio",
     "components/iview/select",
-    "components/iview/tree",
-    "components/iview/upload"
+    "components/iview/tree"
   ],
   "version": "2.5.15"
 }
