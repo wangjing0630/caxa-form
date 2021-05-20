@@ -1,6 +1,6 @@
 {
   "name": "@caxa-form/component-ivu-group",
-  "version": "2.5.9",
+  "version": "2.5.10",
   "description": "@caxa-form/iview 内置组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -31,7 +31,7 @@
   "author": "wangjing11260",
   "license": "MIT",
   "dependencies": {
-    "@caxa-form/utils": "^2.5.9"
+    "@caxa-form/utils": "^2.5.10"
   },
   "bugs": {
     "url": "https://github.com/wangjing11260/form-create/issues"
