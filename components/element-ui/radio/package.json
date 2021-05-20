@@ -1,6 +1,6 @@
 {
   "name": "@caxa-form/component-elm-radio",
-  "version": "2.5.13",
+  "version": "2.5.14",
   "description": "@caxa-form/element-ui 内置组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -37,7 +37,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@caxa-form/utils": "^2.5.13"
+    "@caxa-form/utils": "^2.5.14"
   },
   "gitHead": "304e38928ea4e536dd5a6462074f8b9d150d0cc5"
 }

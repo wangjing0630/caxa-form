@@ -1,6 +1,6 @@
 {
     "name": "@caxa-form/data",
-    "version": "2.5.13",
+    "version": "2.5.14",
     "description": "",
     "main": "./src/index.js",
     "module": "./src/index.js",
