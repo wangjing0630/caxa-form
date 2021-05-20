@@ -2,9 +2,7 @@
   "packages": [
     "packages/core",
     "packages/data",
-    "packages/element-ui",
-    "components/element-ui/frame",
-    "components/element-ui/group"
+    "packages/element-ui"
   ],
   "version": "2.5.15"
 }
