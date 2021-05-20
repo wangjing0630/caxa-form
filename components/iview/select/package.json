@@ -1,6 +1,6 @@
 {
   "name": "@caxa-form/component-ivu-select",
-  "version": "2.5.14",
+  "version": "2.5.15",
   "description": "@caxa-form/iview 内置组件",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -31,7 +31,7 @@
   "author": "wangjing11260",
   "license": "MIT",
   "dependencies": {
-    "@caxa-form/utils": "^2.5.14"
+    "@caxa-form/utils": "^2.5.15"
   },
   "bugs": {
     "url": "https://github.com/wangjing0630/caxa-form/issues"
