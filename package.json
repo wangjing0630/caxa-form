@@ -1,5 +1,6 @@
 {
     "name": "caxa-form",
+    "version": "2.5.13",
     "private": true,
     "workspaces": [
         "commands/*",
